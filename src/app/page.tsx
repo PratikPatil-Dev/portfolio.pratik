@@ -32,7 +32,7 @@ export default function Home() {
 
       {/* About  */}
 
-      <section id="about" className="snap-center">
+      <section id="about" className="snap-start">
         <About />
       </section>
 

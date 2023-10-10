@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { motion } from "framer-motion";
 import aboutPic from "../assets/aboutPic.jpg";
 

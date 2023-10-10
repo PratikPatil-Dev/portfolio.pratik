@@ -36,7 +36,7 @@ const About = (props: Props) => {
           duration: 1.2,
         }}
         viewport={{ once: true }}
-        className="img -mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover object-top md:object-center md:rounded-lg md:w-56 md:h-64 xl:w-[300px] xl:h-[400px]"
+        className="img -mb-32 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover object-top md:object-center md:rounded-lg md:w-56 md:h-64 xl:w-[300px] xl:h-[400px]"
         src={aboutPicUrl}
       />
 
@@ -46,14 +46,35 @@ const About = (props: Props) => {
           <span className="underline decoration-[#F7AB0A]">little</span>{" "}
           background
         </h4>
-        <p className="text-base">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-          soluta est dolorem aut debitis, repudiandae nemo neque numquam qui
-          consequuntur distinctio beatae alias vel! Unde reiciendis, illo quo
-          qui a quaerat aspernatur cum delectus quia necessitatibus est maiores
-          tempora eaque velit quos? Quia nobis molestias consequuntur maxime
-          aperiam. Facilis, quibusdam?
-        </p>
+        <div className="text-base">
+          <p>
+            Hey there! I'm Pratik and my journey has taken a fascinating turn.
+            Originally trained in aviation as an Aircraft Maintenance Engineer✈️,
+            I thrived on precision and problem-solving. But then 2020 happened,
+            and the aviation industry faced unprecedented challenges due to the
+            COVID-19 pandemic and other global events.
+          </p>
+          <br />
+          <p>
+            In January 2023, I decided to switch gears and dove headfirst into
+            the world of web development👨‍💻, specializing in the MERN stack. The
+            learning experience has been a whirlwind of excitement, with the
+            chance to be mentored by some of the best in the field.
+          </p>
+          <br />
+          <p>
+            Now, I'm on the lookout for opportunities to put my skills to the
+            test. My career shift is not a setback; it's a transformation. I
+            bring a unique blend of problem-solving from my aviation background
+            and the fresh creativity of web development. I'm eager to
+            collaborate and make a positive impact on new projects.
+          </p>
+          <br />
+          <p>
+            Thanks for visiting my portfolio! Let's chat about how we can create
+            something amazing together.
+          </p>
+        </div>
       </div>
     </motion.div>
   );

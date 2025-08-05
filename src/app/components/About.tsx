@@ -64,11 +64,11 @@ const About = (props: Props) => {
             </p>
             <br />
             <p>
-              Now, I'm on the lookout for opportunities to put my skills to the
-              test. My career shift is not a setback; it's a transformation. I
-              bring a unique blend of problem-solving from my aviation
-              background and the fresh creativity of web development. I'm eager
-              to collaborate and make a positive impact on new projects.
+              With nearly 2 years of work experience, 
+              I've honed my skills in building robust web applications using React, Node.js, and Express. 
+              My journey has also led me into the world of AI, where I've worked with technologies like LangChain, LangGraph, MCP servers, and developed AI agent chatbots. 
+              Additionally, I have practical experience deploying scalable solutions on cloud platforms such as Google Cloud Platform (GCP) and AWS EC2. 
+              I'm excited to leverage this diverse expertise to drive innovation and deliver impactful results on new projects.
             </p>
             <br />
             <p>
